@@ -15,4 +15,4 @@
 <br>
 <h2> Projeto Responsivo</h2>
   <br>
-
+<img src="https://raw.githubusercontent.com/anarodrigues33/easy-shopping/7fe487c86929e35d6e774b562f38e9d6f4f4a46c/CSS/img/imagem%20celular.png"/>
